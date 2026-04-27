@@ -2,7 +2,6 @@
 
 ## 🚀 AI Researcher
 
-- GATE 2027 Aspirant
 - Building CECA (Epistemic AI System)
 
 ## 🔬 Projects
