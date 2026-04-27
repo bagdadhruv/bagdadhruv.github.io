@@ -1,13 +1,22 @@
 remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
 
 title: Dhruv Bagda
 description: AI Research Portfolio
 
-header_pages:
-  - index.md
-  - projects.md
-  - research.md
-  - blog.md
-  - about.md
+plugins:
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: "default"
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Research
+    url: /research/
+  - title: Blog
+    url: /blog/
+  - title: About
+    url: /about/
