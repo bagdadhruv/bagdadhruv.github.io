@@ -1,9 +1,3 @@
----
-layout: single
-title: "Research"
-permalink: /research/
----
-
 # Research Vision
 
 ## 🧩 CECA (Computational Epistemic Convergence Architecture)
