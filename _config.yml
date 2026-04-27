@@ -9,14 +9,15 @@ plugins:
 minimal_mistakes_skin: "default"
 
 # Navigation
-nav:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects/
-  - title: Research
-    url: /research/
-  - title: Blog
-    url: /blog/
-  - title: About
-    url: /about/
+header:
+  nav:
+    - title: Home
+      url: /
+    - title: Projects
+      url: /projects/
+    - title: Research
+      url: /research/
+    - title: Blog
+      url: /blog/
+    - title: About
+      url: /about/
