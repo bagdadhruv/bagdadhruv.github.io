@@ -1,9 +1,3 @@
----
-layout: single
-title: "About"
-permalink: /about/
----
-
 # About Me
 
 I am Dhruv Bagda, a Computer Engineering graduate.
