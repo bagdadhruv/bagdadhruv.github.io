@@ -1,12 +1,19 @@
+---
+layout: default
+title: Home
+---
+
 # Dhruv Bagda
 
-## 🚀 AI Researcher
+🚀 AI Researcher 
 
-- Building CECA (Epistemic AI System)
+## 🔬 Focus
+- Neuro-Symbolic AI  
+- Epistemic AI (CECA)  
+- Reliable Reasoning Systems  
 
-## 🔬 Projects
-- AIOS
-- Neuro-Symbolic Engine
-
-## 📄 Research Vision
-Unified Epistemic AI Architecture
+## 📂 Explore
+- [Projects](./projects.md)
+- [Research](./research.md)
+- [Blog](./blog.md)
+- [About](./about.md)
