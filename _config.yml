@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
 
 title: Dhruv Bagda
 description: AI Research Portfolio
