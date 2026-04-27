@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+
+title: Dhruv Bagda
+description: AI Research Portfolio
+
+header_pages:
+  - index.md
+  - projects.md
+  - research.md
+  - blog.md
+  - about.md
